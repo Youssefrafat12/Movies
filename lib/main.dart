@@ -13,7 +13,7 @@ import 'features/main/tabs/home/cubit/home_general_cubit.dart';
 import 'firebase_options.dart';
 import 'package:movies_app/features/auth/forget_password/forget_password_screen.dart';
 import 'package:movies_app/features/auth/login/login_screen.dart';
-import 'package:movies_app/features/auth/register/regsister_screen.dart';
+import 'package:movies_app/features/auth/register/register_screen.dart';
 import 'package:movies_app/features/main/movie_details/cubit/movie_details_view_model.dart';
 import 'package:movies_app/features/main/movie_details/movie_suggestions/cubit/movie_suggestion_view_model.dart';
 import 'package:movies_app/features/main/movie_details/widgets/movie_details_bloc_builder.dart';
